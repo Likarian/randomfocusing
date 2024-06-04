@@ -16,4 +16,3 @@ RF and RFwJSD stand for random focusing and its JSD-applied version, respectivel
 ---
 # License
 The code and data are allowed only for noncommercial usage. Please cite our paper if our data were used in your work.
-You can see specific terms of use in the LICENSE.md.
