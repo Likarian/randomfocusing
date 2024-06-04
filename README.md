@@ -1,4 +1,4 @@
-# Deformable Dynamic Convolution
+# A Random Focusing Method with Jensen–Shannon Divergence for Improving Deep Neural Network Performance Ensuring Architecture Consistency
 
 Official code and data of the paper 'A Random Focusing Method with Jensen–Shannon Divergence for Improving Deep Neural Network Performance Ensuring Architecture Consistency,' Neural Processing Letters (Accepted). 
 [official paper] : coming soon
