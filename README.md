@@ -1,6 +1,7 @@
 # A Random Focusing Method with Jensen–Shannon Divergence for Improving Deep Neural Network Performance Ensuring Architecture Consistency
 
 Official code of the paper 'A Random Focusing Method with Jensen–Shannon Divergence for Improving Deep Neural Network Performance Ensuring Architecture Consistency,' Neural Processing Letters, Volume 56, article number 199, 2024. 
+
 Paper: https://link.springer.com/article/10.1007/s11063-024-11668-z
 
 ---
